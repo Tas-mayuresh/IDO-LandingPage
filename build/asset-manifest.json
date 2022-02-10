@@ -1,35 +1,37 @@
 {
   "files": {
     "main.css": "/static/css/main.582a6ee5.chunk.css",
-    "main.js": "/static/js/main.1bff4e13.chunk.js",
-    "main.js.map": "/static/js/main.1bff4e13.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b79b39e4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b79b39e4.js.map",
+    "main.js": "/static/js/main.142d27b4.chunk.js",
+    "main.js.map": "/static/js/main.142d27b4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.20e70047.js",
+    "runtime-main.js.map": "/static/js/runtime-main.20e70047.js.map",
     "static/css/2.853a80e6.chunk.css": "/static/css/2.853a80e6.chunk.css",
-    "static/js/2.256fb728.chunk.js": "/static/js/2.256fb728.chunk.js",
-    "static/js/2.256fb728.chunk.js.map": "/static/js/2.256fb728.chunk.js.map",
-    "static/js/3.18af1c1b.chunk.js": "/static/js/3.18af1c1b.chunk.js",
-    "static/js/3.18af1c1b.chunk.js.map": "/static/js/3.18af1c1b.chunk.js.map",
+    "static/js/2.bfa2efab.chunk.js": "/static/js/2.bfa2efab.chunk.js",
+    "static/js/2.bfa2efab.chunk.js.map": "/static/js/2.bfa2efab.chunk.js.map",
+    "static/js/3.9422c66a.chunk.js": "/static/js/3.9422c66a.chunk.js",
+    "static/js/3.9422c66a.chunk.js.map": "/static/js/3.9422c66a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e2aa79b733013803bf34472e7d8e4269.js": "/precache-manifest.e2aa79b733013803bf34472e7d8e4269.js",
+    "precache-manifest.22471ff36e03395665fc91f146940a20.js": "/precache-manifest.22471ff36e03395665fc91f146940a20.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.853a80e6.chunk.css.map": "/static/css/2.853a80e6.chunk.css.map",
     "static/css/main.582a6ee5.chunk.css.map": "/static/css/main.582a6ee5.chunk.css.map",
-    "static/js/2.256fb728.chunk.js.LICENSE.txt": "/static/js/2.256fb728.chunk.js.LICENSE.txt",
+    "static/js/2.bfa2efab.chunk.js.LICENSE.txt": "/static/js/2.bfa2efab.chunk.js.LICENSE.txt",
     "static/media/bulk-logo.png": "/static/media/bulk-logo.3c72059c.png",
+    "static/media/edex.png": "/static/media/edex.15fc0d7e.png",
     "static/media/fc.png": "/static/media/fc.90b64679.png",
     "static/media/im-main.png": "/static/media/im-main.395d25ef.png",
     "static/media/line-bg.png": "/static/media/line-bg.31744fda.png",
     "static/media/p-4.png": "/static/media/p-4.15bbc7ed.png",
     "static/media/p-5.png": "/static/media/p-5.769261e3.png",
     "static/media/partner-bg.png": "/static/media/partner-bg.31744fda.png",
-    "static/media/support-graph.png": "/static/media/support-graph.70d3e6a0.png"
+    "static/media/support-graph.png": "/static/media/support-graph.70d3e6a0.png",
+    "static/media/zbs.png": "/static/media/zbs.9ebb2141.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b79b39e4.js",
+    "static/js/runtime-main.20e70047.js",
     "static/css/2.853a80e6.chunk.css",
-    "static/js/2.256fb728.chunk.js",
+    "static/js/2.bfa2efab.chunk.js",
     "static/css/main.582a6ee5.chunk.css",
-    "static/js/main.1bff4e13.chunk.js"
+    "static/js/main.142d27b4.chunk.js"
   ]
 }
